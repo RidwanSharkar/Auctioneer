@@ -23,6 +23,9 @@ Customer Representative: May be implemented to handle User queries, assist with 
 Usage:
 
 Admin Username: admin123
+
 Admin Password: pass123
+
 Customer Representative Username: custrep123
+
 Customer Representative Password: pass123
