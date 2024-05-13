@@ -4,6 +4,7 @@ Overview:
 
 Auctioneer is intended to be a template for any Relational Database Mangement System that resembles an online auction schema, inspired by platforms like eBay. This system allows users to buy and sell items through an online auction process, and is developed using HTML, MySQL, Java, JavaScript, and JDBC for connectivity between the user interface and the database server - hosted locally on Apache Tomcat and MySQL servers, respectively.
 
+
 Features:
 
 Account Management: Options for account creation, login, and logout.
@@ -15,6 +16,7 @@ Auction Interaction: Users can create auctions, place bids, and set automatic bi
 Search & Alerts: Advanced search options for items and alerts for items of interest.
 
 Customer Representative: May be implemented to handle User queries, assist with account issues, and modify auction details
+
 
 
 
