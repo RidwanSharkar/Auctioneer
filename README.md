@@ -2,7 +2,7 @@
 
 Overview:
 
-This project is intended to be a template for any Relational Database Mangement System to support an online auction system, inspired by platforms like eBay. This system allows users to buy and sell items through an online auction process. The application is developed using HTML, MySQL, Java, JavaScript, and JDBC for connectivity between the user interface and the database server, hosted locally on Apache Tomcat and MySQL servers, respectively.
+This project is intended to be a template for any Relational Database Mangement System to support an online auction schema, inspired by platforms like eBay. This system allows users to buy and sell items through an online auction process. The application is developed using HTML, MySQL, Java, JavaScript, and JDBC for connectivity between the user interface and the database server, hosted locally on Apache Tomcat and MySQL servers, respectively.
 
 Features:
 
