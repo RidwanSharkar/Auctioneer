@@ -19,3 +19,12 @@ ________________________________________________________________________________
 • Search & Alerts: advanced search options for items and alerts for items of interest.
 
 • Customer Representative: may be implemented to handle user queries, assist with account issues, and modify auction details
+
+________________________________________________________________________________________________________________
+**TECH STACK:**
+
+**Frontend:** HTML, JavaScript
+
+**Backend:** MySQL, JDBC, Java
+
+Apache Tomcat
